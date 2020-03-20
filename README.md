@@ -5,6 +5,16 @@
 
 This is a shortcut to the boo-yah document, and it's respective files.
 
+## Usage
+### To access the doc
+Simply go to `boo-yah.ink` and you'll be automatically redirected to the google doc.
+
+### To access all of the images
+Go to `img.boo-yah.ink` to see a list of links to each of the images.
+
+### To get a direct link to any of the images
+The images are located at `img.boo-yah.ink/{color}`. Replace `color` with the color of the inkling alt you want.
+
 ## Credits
 
 Huge thanks to [Kise](https://twitter.com/KiseSeryuu_AOA/) and [Saff](https://twitter.com/Big_Saffron/) for the doc and images respectively.
