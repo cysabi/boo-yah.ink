@@ -13,7 +13,7 @@ Simply go to `boo-yah.ink` and you'll be automatically redirected to the google 
 Go to `img.boo-yah.ink` to see a list of links to each of the images.
 
 ### To get a direct link to any of the images
-The images are located at `img.boo-yah.ink/{color}`. Replace `color` with the color of the inkling alt you want.
+The images are located at `img.boo-yah.ink/{color}.png`. Replace `color` with the color of the inkling alt you want.
 
 ## Credits
 
