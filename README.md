@@ -1,5 +1,5 @@
 # `boo-yah.ink`
-> Hosting files for the Inklingcord's Boo-Yah %s Doc!
+> Hosting files for the Inklingcord's Boo-Yah Doc!
 
 ![Tags][tag-image]
 
