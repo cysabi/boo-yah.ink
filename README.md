@@ -27,7 +27,7 @@ Support me - Patreon: [`https://www.patreon.com/leptospira`](https://www.patreon
 
 As always, distributed under the MIT license. See `LICENSE` for more information.
 
-**https://github.com/LeptoSpira/boo-yah.ink**
+**[https://github.com/LeptoSpira/boo-yah.ink](https://github.com/LeptoSpira/boo-yah.ink)**
 
 <!-- Markdown link & img dfn's -->
 [tag-image]: https://img.shields.io/github/license/LeptoSpira/boo-yah.ink.svg
