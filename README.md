@@ -21,7 +21,7 @@ The images are located at `img.boo-yah.ink/{color}.png`. Replace `color` with th
 
 ## Acknowledgements
 
-Huge thanks to **Kise** ![Kise][kise-shield] and **Saff** ![Twitter Follow](saff-shield) for the doc and images respectively.
+Huge thanks to **Kise** ![Kise][kise-shield] and **Saff** ![Saff][saff-shield] for the doc and images respectively.
 
 Give em a follow! :heart:
 
