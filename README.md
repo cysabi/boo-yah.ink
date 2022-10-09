@@ -25,14 +25,6 @@ Huge thanks to **Kise** [![Kise][kise-shield]](https://twitter.com/KiseSeryuu_AO
 
 Give em a follow! :heart:
 
----
-
-Contact me · [**@LeptoFlare**](https://github.com/LeptoFlare) · [lepto.tech](https://lepto.tech)
-
-As always, distributed under the MIT license. See `LICENSE` for more information.
-
-_[https://github.com/LeptoFlare/boo-yah.ink](https://github.com/LeptoFlare/boo-yah.ink)_
-
 <!-- markdown links & imgs -->
 [stars-shield]: https://img.shields.io/github/stars/LeptoFlare/boo-yah.ink.svg?style=social
 [license-shield]: https://img.shields.io/github/license/LeptoFlare/boo-yah.ink.svg?style=flat
