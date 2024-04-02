@@ -1,8 +1,6 @@
 # `boo-yah.ink`
 > the image files for the boo-yah doc
 
-![License][license-shield]
-![Stars][stars-shield]
 # ![Banner](banner.png)
 
 This website is a shortcut to the boo-yah document, and it's respective files.
@@ -25,8 +23,10 @@ huge thanks to **Kise** [![Kise][kise-shield]](https://twitter.com/KiseSeryuu_AO
 
 Give em a follow! :heart:
 
+---
+
+*empathy included • [**@cysabi**](https://github.com/cysabi) • [cysabi.github.io](https://cysabi.github.io)*
+
 <!-- markdown links & imgs -->
-[stars-shield]: https://img.shields.io/github/stars/LeptoFlare/boo-yah.ink.svg?style=social
-[license-shield]: https://img.shields.io/github/license/LeptoFlare/boo-yah.ink.svg?style=flat
 [kise-shield]: https://img.shields.io/twitter/follow/KiseSeryuu_AOA?style=social
 [saff-shield]: https://img.shields.io/twitter/follow/Big_Saffron?style=social
